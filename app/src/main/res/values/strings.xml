@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Contact Room</string>
+    <string name="nameHint">Enter name</string>
+    <string name="occupationHint">Enter occupation</string>
+    <string name="saveButton">Save</string>
+    <string name="empty">Fields are empty.</string>
+    <string name="descriptionTextPlus">Plus Button Icon</string>
 </resources>
