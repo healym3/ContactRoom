@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/mhhea/AndroidStudioProjects/ContactRoom/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/mhhea/AndroidStudioProjects/ContactRoom/app/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
         <entry key="..\:/Users/mhhea/AndroidStudioProjects/ContactRoom/app/src/main/res/layout/activity_new_contact.xml" value="0.33" />
+        <entry key="..\:/Users/mhhea/AndroidStudioProjects/ContactRoom/app/src/main/res/layout/contact_row.xml" value="0.34739583333333335" />
       </map>
     </option>
   </component>
