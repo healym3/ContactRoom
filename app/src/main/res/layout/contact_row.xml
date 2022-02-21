@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:padding="@dimen/generalPadding"
-                android:text="TextView"
+                android:text="@string/placeholderText"
                 android:textColor="#EEEEEE"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -41,7 +41,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:padding="@dimen/generalPadding"
-                android:text="TextView"
+                android:text="@string/placeholderText"
                 android:textColor="#212121"
                 android:textSize="18sp" />
         </LinearLayout>
