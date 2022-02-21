@@ -14,7 +14,7 @@
         android:layout_marginEnd="8dp"
         app:cardBackgroundColor="#0097A7"
         app:cardCornerRadius="@dimen/elevation"
-        app:cardElevation="@dimen/elevation"
+        app:cardElevation="3dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -22,6 +22,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:gravity="center_vertical"
             android:orientation="vertical">
 
             <TextView
