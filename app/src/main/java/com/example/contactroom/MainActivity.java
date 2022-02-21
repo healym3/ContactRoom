@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
 
     @Override
     public void onContactClick(int position) {
-        Log.d("MainActivity", "onContactClick: clicked " + position);
+        Contact contact = contactViewModel.allContacts.getValue().get(position);
+        Log.d("MainActivity", "onContactClick: clicked " + contact.getName() + " " + contact.getOccupation());
     }
 }
