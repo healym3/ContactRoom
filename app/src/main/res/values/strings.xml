@@ -6,4 +6,6 @@
     <string name="empty">Fields are empty.</string>
     <string name="descriptionTextPlus">Plus Button Icon</string>
     <string name="placeholderText">Placeholder</string>
+    <string name="updateButton">Update</string>
+    <string name="deleteButton">Delete</string>
 </resources>
